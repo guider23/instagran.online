@@ -26,7 +26,7 @@ A simple **Instagram login page clone** built with **HTML, CSS, and JavaScript**
 ## 🔧 How to Use?
 1️⃣ **Download or clone the repository**  
 ```bash
-git clone https://github.com/yourusername/instagram-login-clone.git
+git clone https://github.com/guider23/instagran.online.git
 cd instagram-login-clone
 ```
 2️⃣ **Open `index.html` in a browser**  
