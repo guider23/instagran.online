@@ -39,4 +39,4 @@ cd instagram-login-clone
 This project is **for educational purposes only**. It **does not store credentials** and is **not affiliated with Instagram**.  
 
 ---
-
+view sample at https://xxxsample00xxx.github.io/igfe/ (xxxsamplexxx is maintained by guider23)
